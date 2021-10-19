@@ -4,7 +4,8 @@
   "description": "1. git status\r 2. git add .\r 3. git commit -m \"comment\"\r 4. git push origin branch_name",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "styles" : "node-sass -w ./src/scss/ -o ./src/css"
   },
   "repository": {
     "type": "git",
