@@ -1,0 +1,23 @@
+{
+  "name": "chairs-shop-online",
+  "version": "1.0.0",
+  "description": "1. git status\r 2. git add .\r 3. git commit -m \"comment\"\r 4. git push origin branch_name",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arianspacerock/chairs-shop-online.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arianspacerock/chairs-shop-online/issues"
+  },
+  "homepage": "https://github.com/arianspacerock/chairs-shop-online#readme",
+  "dependencies": {
+    "node-sass": "^6.0.1"
+  }
+}
