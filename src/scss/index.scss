@@ -1,4 +1,8 @@
-@import "./constants/constants";
-@import "./global/global";
+@import "./constants/__constants";
+@import "./global/__global";
 
-@import "./modules/header-navigation.scss";
+@import "./common/__callback-block";
+@import "./common/__default-button";
+
+@import "./modules/__header-navigation";
+@import "./modules/__header"
