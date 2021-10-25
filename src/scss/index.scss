@@ -1,8 +1,13 @@
 @import "./constants/__constants";
 @import "./global/__global";
 
+@import "./common/_products-layout";
 @import "./common/__callback-block";
 @import "./common/__default-button";
+@import "./common/__product-card";
+@import "./common/_titles";
 
 @import "./modules/__header-navigation";
-@import "./modules/__header"
+@import "./modules/__header";
+@import "./modules/_special-products";
+@import "./modules/_resently-watched-products";
